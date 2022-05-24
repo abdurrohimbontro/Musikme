@@ -1,4 +1,4 @@
-<h2 align="centre">Nothing Vcg Musik Bot</h2>
+<h2 align="centre">ini adalah Musikme</h2>
 
 <p align="center">
   <img src="https://i.ibb.co/515j0LG/20220309-144947.jpg">
@@ -37,13 +37,7 @@
 
 
 ## String Session :
-- [Versi Web](https://replit.com/@MichaelAgam/StringSession)
-- [Versi Bot](https://t.me/NothingStringGenBot)
+- [string](https://replit.com//StringSession)
 
-
-The easy way to host this bot, deploy to Heroku, Change the app country to Europe (it will help to make the bot stable).
-<p align="center">
-<a href="https://dashboard.heroku.com/new?template=https://github.com/PunyaChael/Vcg-MusikBot"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="250""/</a>  
-<a href="https://telegram.dog/XTZ_HerokuBot?start=bXVoYW1tYWRyaXpreTE2L0t5eU11c2ljIG1hc3Rlcg"><img src="https://img.shields.io/badge/Deploy%20Via%20Telegram-blue?style=for-the-badge&logo=telegram" width="250""/</a>  </p>
 
 
